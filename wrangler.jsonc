@@ -75,7 +75,7 @@
 		{
 			"binding": "DB",
 			"database_name": "vibesdk-db",
-			"database_id": "c4721a2b-b96a-428a-8b2a-b3d255b307e9",
+			"database_id": "b337de8a-287f-476a-90b2-996f1449be7b",
 			"migrations_dir": "migrations",
 			"remote": true
 		}
@@ -106,7 +106,7 @@
     "kv_namespaces": [
         {
             "binding": "VibecoderStore",
-            "id": "f066f3c2e4824981b48e8586c04db9c1",
+            "id": "00e18aa5be7d435baf6d2b88d83a5d0a",
             "remote": true
         }
     ],
